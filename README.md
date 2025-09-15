@@ -1,3 +1,5 @@
+<sub>DISCLAIMER: This project was pulled from a in school project, the project prompt was given by the professor.</sub>
+
 <h1>Chackers*</h1>
 <sub>Chackers because it's like checkers lesser known cousin!</sub>
 
