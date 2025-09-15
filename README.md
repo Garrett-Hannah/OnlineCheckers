@@ -1,4 +1,4 @@
-<sub>DISCLAIMER: This project was pulled from a in school project, the project prompt was given by the professor.</sub>
+<sub>DISCLAIMER: This project was pulled from a in school project, the project prompt was given by the professor. Commit Numbers are not representative of the work done then</sub>
 
 <h1>Chackers*</h1>
 <sub>Chackers because it's like checkers lesser known cousin!</sub>
